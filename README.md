@@ -51,3 +51,10 @@ This preprocessing step improves model performance by reducing noise in textual 
 - Analyzed distribution of fake and real news articles
 - Dataset is nearly balanced between both classes
 - Visualized class distribution using Seaborn countplot
+
+## Day 4: Exploratory Data Analysis (EDA)
+
+- Analyzed fake vs real news distribution
+- Verified dataset balance
+- Visualized class distribution using Seaborn
+- Analyzed article length distribution
