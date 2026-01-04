@@ -72,3 +72,10 @@ This preprocessing step improves model performance by reducing noise in textual 
 - Trained Logistic Regression model on TF-IDF features
 - Achieved high accuracy on test data
 - Evaluated model using classification report and confusion matrix
+
+## Day 7 – Model Saving and Prediction
+
+- Loaded the trained Logistic Regression model and TF-IDF vectorizer
+- Implemented a reusable prediction function
+- Tested the model on new unseen news text
+- Demonstrated end-to-end fake news detection pipeline
