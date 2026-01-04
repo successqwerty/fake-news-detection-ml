@@ -58,3 +58,10 @@ This preprocessing step improves model performance by reducing noise in textual 
 - Verified dataset balance
 - Visualized class distribution using Seaborn
 - Analyzed article length distribution
+
+## Day 5 – Text Vectorization (TF-IDF)
+
+- Handled missing values in cleaned text
+- Removed all the rows containing NAN values
+- Applied TF-IDF vectorization to convert text into numerical features
+- Verified vocabulary contains meaningful words
