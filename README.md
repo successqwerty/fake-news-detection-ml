@@ -65,3 +65,10 @@ This preprocessing step improves model performance by reducing noise in textual 
 - Removed all the rows containing NAN values
 - Applied TF-IDF vectorization to convert text into numerical features
 - Verified vocabulary contains meaningful words
+
+## Day 6 – Model Training and Evaluation
+
+- Split data into training and testing sets
+- Trained Logistic Regression model on TF-IDF features
+- Achieved high accuracy on test data
+- Evaluated model using classification report and confusion matrix
