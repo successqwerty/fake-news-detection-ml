@@ -79,3 +79,10 @@ This preprocessing step improves model performance by reducing noise in textual 
 - Implemented a reusable prediction function
 - Tested the model on new unseen news text
 - Demonstrated end-to-end fake news detection pipeline
+
+## Day 8 – Model Evaluation and Error Analysis
+
+- Evaluated model performance using confusion matrix
+- Analyzed precision, recall, and F1-score
+- Visualized classification results
+- Performed error analysis to understand misclassifications
