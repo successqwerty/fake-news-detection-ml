@@ -86,3 +86,10 @@ This preprocessing step improves model performance by reducing noise in textual 
 - Analyzed precision, recall, and F1-score
 - Visualized classification results
 - Performed error analysis to understand misclassifications
+
+
+## Day 9 – Model Improvement and Comparison
+
+- Trained a Naive Bayes classifier on TF-IDF features
+- Evaluated and compared it with Logistic Regression
+- Selected Logistic Regression as the final model based on performance
